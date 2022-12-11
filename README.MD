@@ -5,6 +5,9 @@ Work Day Scheduler
 
 This is a third-party API intended for use in managing your daily schedule. Time blocks change color depending on if it is the past, present of future with regards to each hour listed. Events placed on the calender are saved in local storage. 
 
+https://kthlnt.github.io/Work-Day-Scheduler/
+![workdayschedule](https://user-images.githubusercontent.com/116473087/206885938-2d254df2-2295-4276-83b9-ca181bdaa716.png)
+
 ## License
 
 MIT License
